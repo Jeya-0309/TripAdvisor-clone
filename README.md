@@ -5,7 +5,7 @@ This project recreates the layout and design of TripAdvisor with different trave
 
 ## 🔗 Live Demo
 
-[Add your deployed website link here.](https://jeya-0309.github.io/TripAdvisor-clone/)
+[Trip Advisor Website Link](https://jeya-0309.github.io/TripAdvisor-clone/)
 
 ## 🛠️ Technologies Used
 
